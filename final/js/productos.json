@@ -1,0 +1,182 @@
+[
+    {
+        "id": "llanta-01",
+        "titulo": "Llanta 01",
+        "imagen": "./img/llantas/01.jpg",
+        "categoria": {
+            "nombre": "Llanta",
+            "id": "llantas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "llanta-02",
+        "titulo": "Llanta 02",
+        "imagen": "./img/llantas/02.jpg",
+        "categoria": {
+            "nombre": "Llanta",
+            "id": "llantas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "llanta-03",
+        "titulo": "Llanta 03",
+        "imagen": "./img/llantas/03.jpg",
+        "categoria": {
+            "nombre": "Llanta",
+            "id": "llantas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "llanta-04",
+        "titulo": "Llanta 04",
+        "imagen": "./img/llantas/04.jpg",
+        "categoria": {
+            "nombre": "Llanta",
+            "id": "llantas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "llanta-05",
+        "titulo": "Llanta 05",
+        "imagen": "./img/llantas/05.jpg",
+        "categoria": {
+            "nombre": "llantas",
+            "id": "llantas"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "escape-01",
+        "titulo": "Escape 01",
+        "imagen": "./img/escapes/01.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-02",
+        "titulo": "Escape 02",
+        "imagen": "./img/escapes/02.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-03",
+        "titulo": "Escape 03",
+        "imagen": "./img/escapes/03.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-04",
+        "titulo": "Escape 04",
+        "imagen": "./img/escapes/04.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-05",
+        "titulo": "Escape 05",
+        "imagen": "./img/escapes/05.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-06",
+        "titulo": "Escape 06",
+        "imagen": "./img/escapes/06.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-07",
+        "titulo": "Escape 07",
+        "imagen": "./img/escapes/07.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "escape-08",
+        "titulo": "Escape 08",
+        "imagen": "./img/escapes/08.jpg",
+        "categoria": {
+            "nombre": "Escapes",
+            "id": "escapes"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cubierta-01",
+        "titulo": "Cubierta 01",
+        "imagen": "./img/cubiertas/01.jpg",
+        "categoria": {
+            "nombre": "Cubiertas",
+            "id": "cubiertas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cubierta-02",
+        "titulo": "Cubierta 02",
+        "imagen": "./img/cubiertas/02.jpg",
+        "categoria": {
+            "nombre": "Cubiertas",
+            "id": "cubiertas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cubierta-03",
+        "titulo": "Cubierta 03",
+        "imagen": "./img/cubiertas/03.jpg",
+        "categoria": {
+            "nombre": "Cubiertas",
+            "id": "cubiertas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cubierta-04",
+        "titulo": "Cubierta 04",
+        "imagen": "./img/cubiertas/04.jpg",
+        "categoria": {
+            "nombre": "Cubiertas",
+            "id": "cubiertas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "cubierta-05",
+        "titulo": "Cubierta 05",
+        "imagen": "./img/cubiertas/05.jpg",
+        "categoria": {
+            "nombre": "Cubiertas",
+            "id": "cubiertas"
+        },
+        "precio": 1000
+    }
+]
